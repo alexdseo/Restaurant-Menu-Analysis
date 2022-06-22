@@ -1,2 +1,2 @@
 # Restaurant-Menu-Analysis
-## Clustering Word Embeddings of Los Angeles Restaurants' Menu Item
+## Clustering Word Embeddings of Restaurant Brands' Menu Item
