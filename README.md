@@ -1,2 +1,2 @@
 # Restaurant-Menu-Analysis
-## Clustering Word Embeddings of Restaurant brands' Menu Item
+## Clustering Word Embeddings of Restaurant Brands' Menu Item
