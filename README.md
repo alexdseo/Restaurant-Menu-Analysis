@@ -42,6 +42,7 @@
 
 - SBERT-UMAP-HDBSCAN had the highest clustreing quality among SBERT cases with 0.49.
 
+
 ![alt text](https://github.com/alexdseo/Restaurant-Menu-Analysis/blob/master/FastText.png)
 
 - FastText-UMAP-HDBSCAN had the highest clustreing quality among FastText cases with 0.44.
@@ -49,6 +50,10 @@
 ![alt text](https://github.com/alexdseo/Restaurant-Menu-Analysis/blob/master/TF-IDF.png)
 
 - TF-IDF-PCA-kmeans had the highest clustreing quality among TF-IDF cases with 0.54.
+
+- Surprisingly, the result from using traiditional text featurization method, most basic dimensionality reduction method, and most basic clustering method had the best result!! As UMAP and HDBSCAN worked well with trendy state of the art embedding models like SBERT and FastText, TF-IDF mathced well with PCA and kmeans.
+
+- Looking at the clusters, interestingly, we could find clusters with pizza brands, grocery brands, seafood brands.
 
 ## Quickstart for Data preprocessing
 
