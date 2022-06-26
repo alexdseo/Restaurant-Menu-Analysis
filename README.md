@@ -53,7 +53,7 @@
 
 - Surprisingly, the result from using traiditional text featurization method, most basic dimensionality reduction method, and most basic clustering method had the best result!! As UMAP and HDBSCAN worked well with trendy state of the art embedding models like SBERT and FastText, TF-IDF mathced well with PCA and kmeans.
 
-- Looking at the clusters, interestingly, we could consistently find clusters with **Pizza brands, Grocery brands, Seafood brands, American food brands, and Dessert food brands** among all cases.
+- Looking at the clusters, interestingly, we could consistently find clusters dominantly with **Pizza brands, Grocery brands, Seafood brands, American food brands, and Dessert food brands** among all cases.
 
 ## Quickstart for Data preprocessing
 
