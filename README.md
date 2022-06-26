@@ -18,7 +18,7 @@
 - Finally, to make our data ready to be used for embedding models, we concatenate all the menu items for each restaurants. This process reduces the length of the datset to 308. Between each menu item we only added white space as in later step it will be all tokenized. One additional thing that we noticed from the dataset was that the menu item does not necessarily represent the restaurant's signiture items. For example, Portillo's 'Original food Item' did not include hotdogs, where the restaurant is famous for Chicago style hotdogs.
 
   - Input: `MenuItem.csv`
-  - Output: 'MenuItem_cleaned.csv'
+  - Output: `MenuItem_cleaned.csv`
 
 ### 2. Sentence Embedding & Dimensionality Reduction
 
